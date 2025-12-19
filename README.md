@@ -21,7 +21,7 @@ To be used with Recyclarr. Allows the implementation of another CF to enhance th
 Here is why I made this supplement:
 
 * **Group Preference**: The **Kitsune** Custom Format is specifically designed to prefer and prioritize this release group.
-* **Different Repack Logic**: Standard TRaSH Guide logic typically defers to the built-in quality handling for repacks and propers within Radarr and Sonarr. This supplement introduces a different logic in conjunction with the default one, with the default behaviour the anime guide can't make uses of REPACK to trigger upgrades this fixes it, these Custom Formats will catch it and trigger the upgrade.
+* **Different Repack Logic**: Standard TRaSH Guide logic uses two different CF for repacks and propers within Radarr and Sonarr. This supplement introduces a different logic in conjunction with the default one, with the default behaviour the anime guide can't make uses of REPACK to trigger upgrades this fixes it, these Custom Formats will catch it and trigger the upgrade.
 
 ## Metadata Structure
 
