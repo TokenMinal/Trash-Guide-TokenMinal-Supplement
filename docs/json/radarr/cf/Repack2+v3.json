@@ -1,0 +1,47 @@
+{
+  "trash_id": "bd4ed93da52d423c8d6bf35bacc2def1",
+  "trash_scores": {
+    "default": 0,
+    "anime-radarr": 3
+  },
+"name": "Repack2 / v3",
+  "includeCustomFormatWhenRenaming": false,
+  "specifications": [
+    {
+      "name": "Repack2",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(repack2)\\b"
+      }
+    },
+    {
+      "name": "Proper2",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(proper2)\\b"
+      }
+    },
+    {
+      "name": "RealProperRepack",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(REAL\\.(PROPER|REPACK))\\b"
+      }
+    },
+    {
+      "name": "v3",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "(\\b|\\d)(v3)\\b"
+      }
+    }
+  ]
+}
