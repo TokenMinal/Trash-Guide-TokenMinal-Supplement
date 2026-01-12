@@ -1,0 +1,20 @@
+{
+  "trash_id": "5e46e1f45b9948d4a65972512d314a22",
+  "trash_scores": {
+    "default": 0,
+    "anime-sonarr": 450
+  },
+  "name": "AnoZu",
+  "includeCustomFormatWhenRenaming": false,
+  "specifications": [
+    {
+      "name": "AnoZu",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": true,
+      "fields": {
+        "value": "^(AnoZu)$"
+      }
+    }
+  ]
+}

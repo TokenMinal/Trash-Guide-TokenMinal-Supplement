@@ -22,6 +22,9 @@ This repository can be used with this repo:
 * **Repack2 / v3**: `d7a5cc9eeeb84325829edaa95597cde9`
 * **Repack3 / v4**: `f3ccad4373354f77915a37ba87e4da03`
 * **Kitsune**: `9d710768cd914b59801641e278605262`
+* **AnoZu**: `5e46e1f45b9948d4a65972512d314a22`
+* **Cytox**: `ff77eb07c4554c2cb269f955dd96591d`
+
 
 ## Why this repo exist?
 Here is why I made this supplement:

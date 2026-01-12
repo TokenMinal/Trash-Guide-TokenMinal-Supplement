@@ -1,0 +1,20 @@
+{
+  "trash_id": "ff77eb07c4554c2cb269f955dd96591d",
+  "trash_scores": {
+    "default": 0,
+    "anime-sonarr": 501
+  },
+  "name": "Cytox",
+  "includeCustomFormatWhenRenaming": false,
+  "specifications": [
+    {
+      "name": "Cytox",
+      "implementation": "ReleaseGroupSpecification",
+      "negate": false,
+      "required": true,
+      "fields": {
+        "value": "^(Cytox)$"
+      }
+    }
+  ]
+}
