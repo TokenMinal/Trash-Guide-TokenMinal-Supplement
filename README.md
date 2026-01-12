@@ -29,7 +29,7 @@ This repository can be used with this repo:
 ## Why this repo exist?
 Here is why I made this supplement:
 
-* **Group Preference**: The **Kitsune**,**AnoZu** and **Cytox** Custom Format are designed to prefer and prioritize these release group.
+* **Group Preference**: The **Kitsune**, **AnoZu** and **Cytox** Custom Format are designed to prefer and prioritize these release group.
 * **Different Repack Logic**: Standard TRaSH Guide logic uses two different CF for repacks and propers within Radarr and Sonarr. This supplement introduces a different logic in conjunction with the default one, with the default behaviour the anime guide can't make uses of REPACK to trigger upgrades. This fixes it, these Custom Formats will catch it and trigger the upgrade.
 
 ## Metadata Structure
