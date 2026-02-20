@@ -4,7 +4,8 @@
       "custom_formats": ["docs/json/radarr/cf"]
     },
     "sonarr": {
-      "custom_formats": ["docs/json/sonarr/cf"]
+      "custom_formats": ["docs/json/sonarr/cf"],
+      "quality_profiles": ["docs/json/sonarr/quality-profiles"]
     }
   }
 }
